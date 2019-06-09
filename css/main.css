@@ -533,7 +533,7 @@ header span{
 .team_block{
 	display: flex;
 	justify-content: center;
-	padding: 30px 200px;
+	padding: 30px 20px;
 }
 
 .team h3{
