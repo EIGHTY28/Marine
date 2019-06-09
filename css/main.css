@@ -548,6 +548,7 @@ header span{
 	color: #2691ac;
 }
 .team p{
+	width: 250px;
 	color: #fff;
 	opacity: 0.7;
 	padding-top: 15px;
