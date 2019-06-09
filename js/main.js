@@ -1,9 +1,4 @@
-function myFunction() {
-	var popup = document.getElementById('myPopup')
-	popup.classList.toogle('show');
-}
-
-		$('.owl-carousel').owlCarousel({
+$('.owl-carousel').owlCarousel({
     loop:true,
     dots: false,
 	autoplay:true,
